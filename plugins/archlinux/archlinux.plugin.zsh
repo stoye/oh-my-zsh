@@ -43,6 +43,7 @@ alias cower='cower -calways'
 alias cows='cower -s'
 alias cowdown='cower -df -t /home/stoye/builds'
 alias cowup='cowdown -u'
+alias cowdiff='cower -u'
 
 # Pacman - https://wiki.archlinux.org/index.php/Pacman_Tips
 alias pacupg='sudo pacman -Syu'        # Synchronize with repositories before upgrading packages that are out of date on the local system.
